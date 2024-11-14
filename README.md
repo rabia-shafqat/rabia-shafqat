@@ -16,10 +16,8 @@
 <h1>My Stats</h1>
 
 [![Rabia' GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=rabia-shafqat)](https://github.com/rabia-shafqat/github-readme-stats)
-[![Rabia GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=rabia-shafqat)](https://github.com/rabia-shafqat/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-xi-jet-47.vercel.app/api/top-langs/?username=rabia-shafqat)](https://github.com/rabia-shafqat/github-readme-stats)
-[![Office Langs](https://github-readme-stats-xi-jet-47.vercel.app/api/top-langs/?username=rabia-shafqat)](https://github.com/rabia-shafqat/github-readme-stats)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rabia-shafqat)](https://github.com/rabia-shafqat/github-readme-stats)
 
